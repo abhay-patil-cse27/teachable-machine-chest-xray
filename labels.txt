@@ -1,0 +1,3 @@
+0 Covid Affected Chest X Rays
+1 Normal Chest Xrays
+2 Viral Pnemonia Chest Xrays
